@@ -1,6 +1,6 @@
 package Module1_Java;
 
-public class Methods {
+ class Methods {
 	public static void method1()
 	{
 	System.out.println("my first method");	
